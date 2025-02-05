@@ -1,0 +1,7 @@
+C:\Users\tony.iskow\Documents\Visual Studio 2022\Repos\RawPmtud\bin\Debug\RawPmtud.exe.config
+C:\Users\tony.iskow\Documents\Visual Studio 2022\Repos\RawPmtud\bin\Debug\RawPmtud.exe
+C:\Users\tony.iskow\Documents\Visual Studio 2022\Repos\RawPmtud\bin\Debug\RawPmtud.pdb
+C:\Users\tony.iskow\Documents\Visual Studio 2022\Repos\RawPmtud\obj\Debug\RawPmtud.csproj.AssemblyReference.cache
+C:\Users\tony.iskow\Documents\Visual Studio 2022\Repos\RawPmtud\obj\Debug\RawPmtud.csproj.CoreCompileInputs.cache
+C:\Users\tony.iskow\Documents\Visual Studio 2022\Repos\RawPmtud\obj\Debug\RawPmtud.exe
+C:\Users\tony.iskow\Documents\Visual Studio 2022\Repos\RawPmtud\obj\Debug\RawPmtud.pdb
